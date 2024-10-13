@@ -62,17 +62,5 @@ Os pacotes podem ser instalados com os seguintes comandos:
    npm install typescript ts-node nodemon @types/node @types/express @types/socket.io --save-dev
    ```
 
-## Próximos Passos
 
-1. **Login e Autenticação**: Implementar um sistema de autenticação para usuários.
-2. **Criação de Organizações**: Adicionar suporte à criação de organizações e gerenciamento de usuários por tipo.
-3. **Aprimoramento da Edição em Tempo Real**: Expandir a funcionalidade para múltiplos arquivos e diferentes permissões de edição.
-
-## Contribuições
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests.
-
-## Licença
-
-Este projeto é licenciado sob a [MIT License](LICENSE).
 
